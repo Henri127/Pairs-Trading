@@ -31,8 +31,8 @@ V1 onwards is my own work: I rewrote the selection and evaluation procedure, and
  
 | Pair | p-value, train | p-value, test |
 |---|---|---|
-| ADBE / MSFT | 0.016 | 0.555 |
-| EBAY / ORCL | 0.011 | 0.954 |
+| ADBE / MSFT | 0.015 | 0.578 |
+| EBAY / ORCL | 0.011 | 0.941 |
  
 - 55 pairs were tested at the 5% level, so about 2.75 false positives are expected by chance alone. Two pairs passed.
 - With a Bonferroni correction (threshold 0.05 / 55, about 0.0009), no pair passes.

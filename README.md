@@ -37,7 +37,7 @@ V1 onwards is my own work: I rewrote the selection and evaluation procedure, and
 - 55 pairs were tested at the 5% level, so about 2.75 false positives are expected by chance alone. Two pairs passed.
 - With a Bonferroni correction (threshold 0.05 / 55, about 0.0009), no pair passes.
 - Both pairs stop being cointegrated on the test period. This is consistent with the two hits being selection noise rather than a stable relationship.
-- Trading P&L: `-651$`
+- Trading P&L: `-200$`
 
 
 ## Known limitations of V1
